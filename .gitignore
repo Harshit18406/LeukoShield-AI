@@ -1,3 +1,6 @@
 *.pth
 *.pkl
+download_samples.py
+malignant_sample.jpg
+normal_sample.jpg
 __pycache__/
